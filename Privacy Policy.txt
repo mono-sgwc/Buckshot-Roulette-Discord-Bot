@@ -1,0 +1,3 @@
+Buckshot Roulette Discord Bot Privacy policy:
+- This bot will have access to the server id and user id's of players. No other data will be colected.
+- the collected data will not be shared with any third party.
