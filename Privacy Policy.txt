@@ -4,4 +4,4 @@ Buckshot Roulette Discord Bot Privacy policy:
 - User and server ID's will be stored untill a deletion request.
 - A deletion can be requested over discord DM's/server or via a request over github.
 - in case of any concerns or questions related to your data can be answered via Discord DM's or server.
-- Privacy Policy are subject to change. Updates will be posted on the creators discord server.
+- Privacy Policy are subject to change. Updates will be posted on the developers discord server.
