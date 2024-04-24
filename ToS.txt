@@ -7,4 +7,4 @@ Buckshot Roulette Discord Bot ToS:
 - The bot may undergo maintenance or updates, so users should expect occasional downtime.
 - Any abuse or misuse of the bot may result in restrictions or bans from using it.
 - Bot developer may join your Discord server in case of problems with the bot.
-- Terms of Service is subject to change. Updates will be posted on the bot developer server.
+- Terms of Service are subject to change. Updates will be posted on the developers discord server.
