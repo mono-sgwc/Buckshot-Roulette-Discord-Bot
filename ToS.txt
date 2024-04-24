@@ -2,3 +2,7 @@ Buckshot Roulette Discord Bot ToS:
 - Do not pretend this bot is yours.
 - Do not eploit errors.
 - Bot  will be online on limited times for now.
+- Users must adhere to Discord's Terms of Service and Community Guidelines while using the bot.
+- Respect other users and refrain from using the bot to harass, bully, or spam others.
+- The bot may undergo maintenance or updates, so users should expect occasional downtime.
+- Any abuse or misuse of the bot may result in restrictions or bans from using it.
