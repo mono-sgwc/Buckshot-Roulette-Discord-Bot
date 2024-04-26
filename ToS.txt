@@ -5,6 +5,6 @@ Buckshot Roulette Discord Bot ToS:
 - Users must adhere to Discord's Terms of Service and Community Guidelines while using the bot.
 - Respect other users and refrain from using the bot to harass, bully, or spam others.
 - The bot may undergo maintenance or updates, so users should expect occasional downtime.
-- Any abuse or misuse of the bot may result in restrictions or bans from using it.
+- Any abuse or misuse of the bot or it's WebHooks may result in restrictions or bans from using it.
 - Bot developer may join your Discord server in case of problems with the bot.
 - Terms of Service are subject to change. Updates will be posted on the developers discord server.
