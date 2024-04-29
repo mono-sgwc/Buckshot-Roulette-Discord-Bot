@@ -1,5 +1,5 @@
 # BRDB
-This is the official Buckshot Roulette Discord Bot repo of Raven's bot
+This is the official Buckshot Roulette Discord Bot repo of Raven's <kbd>BOT</kbd>
 
 ## WORD
 if you encounter any bugs, errors or anything else, then make sure to report it.
