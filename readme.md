@@ -1,4 +1,5 @@
 <h1 align="center">Buckshot Roulette Discord Bot</h1>
+[![Version](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/tags)]()
 
 # Overview
 
@@ -25,7 +26,7 @@ if you encounter any bugs, errors or anything else, then make sure to report it.
 I might need to join the server to identify the error and fix it.
 
 # INSTALL
-1. Click or copy the [link](#links) and paste/open (in) a new tab in your browser.
+1. Click or copy the [link](#links) and <kbd>Ctrl</kbd>+<kbd>V</kbd>/open (in) a new tab in your browser.
 
 
 2. Select the server you want to add the bot to
@@ -118,6 +119,9 @@ Dealer actions:
 | <0.4.x | INVERTER | :white_check_mark: |
 
 ## Commands
+> [!NOTE]
+> Admin commands are only avalable for the bot owner.
+>
 
 | Version | Command | Command Sup Group | Command Group | Result | 
 | --- | --- | --- | --- | --- |
@@ -138,6 +142,9 @@ Dealer actions:
 | <0.5.1 | Basically everything else (didn't noted all changes) |
 
 # Permissions
+> [!NOTE]
+> Required permissions are subject to change
+>
 
 | Permission | Default | Required | Usage |
 | --- | --- | --- | --- |
