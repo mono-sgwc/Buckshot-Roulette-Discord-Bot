@@ -206,7 +206,7 @@ Support and Friend during developement
 Beta 0.4.x testers
 - Luke
 - Lyna
-- UNKNOWN STATUS
+- Char Aznable
 - antlerswitch
 - UNKNOWN STATUS
 - UNKNOWN STATUS
