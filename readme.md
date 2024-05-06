@@ -204,10 +204,10 @@ Support and Friend during developement
 - Waulesi
 
 Beta 0.4.x testers
+- Luke
 - UNKNOWN STATUS
 - UNKNOWN STATUS
-- UNKNOWN STATUS
-- UNKNOWN STATUS
+- antlerswitch
 - UNKNOWN STATUS
 - UNKNOWN STATUS
 - ANONYMOUS
