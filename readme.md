@@ -1,6 +1,4 @@
 <h1 align="center">Buckshot Roulette Discord Bot</h1>
-[![Version](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/tags)]()
-
 # Overview
 
 - [Informations](#BRDB)
