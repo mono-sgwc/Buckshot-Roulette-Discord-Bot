@@ -1,8 +1,14 @@
 <h1 align="center">Buckshot Roulette Discord Bot</h1>
-# Overview
 
-- [Informations](#BRDB)
-    - [Word](#WORD)
+[![Github release](https://img.shields.io/badge/current_release-v0.5.2-blue?style=for-the-badge
+)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/releases/)
+[![Github release](https://img.shields.io/badge/ToS-v1.0.1-blue?style=for-the-badge
+)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/releases/)
+[![Github release](https://img.shields.io/badge/Privacy_Policy-v0.1.0.4-blue?style=for-the-badge
+)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/releases/)
+# Overview
+- [Informations](#brdb)
+    - [Word](#word)
 - [how to Install](#install)
 - [How to setup](#setup)
     - [Boot channel setup](#boot)
@@ -11,8 +17,8 @@
     - [Game](#game)
     - [Commands](#commands)
 - [BRDB version](#version)
-- [Permissions and usage](#Permissions)
-- [Links](#LINKS)
+- [Permissions and usage](#permissions)
+- [Links](#links)
 - [Credits](#credits)
 
 # BRDB
