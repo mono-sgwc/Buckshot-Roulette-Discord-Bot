@@ -1,16 +1,16 @@
 <h1 align="center">Buckshot Roulette Discord Bot</h1>
 
-[![Github release](https://img.shields.io/badge/current_release-v0.5.2-00ffff?style=for-the-badge
-)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/releases/)
-![updated](https://img.shields.io/badge/Last%20update-6th%20may%20at%2015%3A45-ff0000?style=for-the-badge)
+![Github release](https://img.shields.io/badge/current_bot_version-v0.5.2-00ffff?style=for-the-badge
+)
+![updated](https://img.shields.io/badge/Last%20update-6th%20may%20at%2011%3A13-ff0000?style=for-the-badge)
 
-[![Github release](https://img.shields.io/badge/ToS-v1.0.1-00ffff?style=for-the-badge
-)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/releases/)
-![updated](https://img.shields.io/badge/Last%20update-6th%20may%20at%2015%3A45-ff0000?style=for-the-badge)
+[![tos](https://img.shields.io/badge/ToS-v1.0.1-00ffff?style=for-the-badge
+)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/ToS.txt)
+[![updated](https://img.shields.io/badge/Last%20update-26th%20apr%20at%2012%3A38-ff0000?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/ToS.txt)
 
-[![Github release](https://img.shields.io/badge/Privacy_Policy-v0.1.0.4-00ffff?style=for-the-badge
-)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/releases/)
-![updated](https://img.shields.io/badge/Last%20update-6th%20may%20at%2015%3A45-ff0000?style=for-the-badge)
+[![privacy policy](https://img.shields.io/badge/Privacy_Policy-v0.1.0.4-00ffff?style=for-the-badge
+)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/Privacy%20Policy.md)
+[![updated](https://img.shields.io/badge/Last%20update-6th%20may%20at%2008%3A28-ff0000?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/Privacy%20Policy.md)
 
 # Overview
 - [Informations](#brdb)
