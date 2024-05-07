@@ -8,9 +8,9 @@
 )](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/ToS.md)
 [![updated](https://img.shields.io/badge/Last%20update-7th%20may%20at%2011%3A02-00ffff?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/ToS.md)
 
-[![privacy policy](https://img.shields.io/badge/Privacy_Policy-v0.1.0.4-green?style=for-the-badge
+[![privacy policy](https://img.shields.io/badge/Privacy_Policy-v0.1.0.5-green?style=for-the-badge
 )](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/Privacy%20Policy.md)
-[![updated](https://img.shields.io/badge/Last%20update-6th%20may%20at%2008%3A28-00ffff?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/Privacy%20Policy.md)
+[![updated](https://img.shields.io/badge/Last%20update-7th%20may%20at%2011%3A13-00ffff?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/Privacy%20Policy.md)
 
 # Overview
 - [Informations](#brdb)
