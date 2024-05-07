@@ -1,8 +1,8 @@
 <h1 align="center">Buckshot Roulette Discord Bot</h1>
 
-![Github release](https://img.shields.io/badge/current_bot_version-v0.5.2-green?style=for-the-badge
-)
-![updated](https://img.shields.io/badge/Last%20update-6th%20may%20at%2011%3A13-00ffff?style=for-the-badge)
+[![Github release](https://img.shields.io/badge/current_bot_version-v0.5.2-green?style=for-the-badge
+)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![updated](https://img.shields.io/badge/Last%20update-6th%20may%20at%2011%3A13-00ffff?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 [![tos](https://img.shields.io/badge/ToS-v1.0.1-green?style=for-the-badge
 )](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/ToS.txt)
