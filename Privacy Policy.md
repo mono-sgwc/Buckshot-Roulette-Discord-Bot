@@ -1,14 +1,8 @@
-<h1 align="center">Buckshot Roulette Discord Bot ToS</h1>
+<h1 align="center">Buckshot Roulette Discord Bot Privacy policy</h1>
 
-- Do not pretend this bot is yours.
-- Do not exploit errors.
-- Users must adhere to Discord's Terms of Service and Community Guidelines while using the bot.
-- Respect other users and refrain from using the bot to harass, bully, or spam others.
-- The bot may undergo maintenance or updates, so users should expect occasional downtime.
-- Any abuse or misuse of the bot or it's WebHooks may result in restrictions or bans from using it.
-- Bot developer may join your Discord server in case of problems with the bot.
-- Terms of Service are subject to change. Updates will be posted on the developers discord server.
-
-> [!NOTE]
-> Bot  will be online unregulary over time for now.
->
+- This bot will have access to the server id, the WebHooks it creates and user id's of server members as to all other server related details. Other data may also be collected.
+- the collected data will not be shared with any third party.
+- The collected data will be stored until a deletion request.
+- A deletion can be requested over discord DM's/server or via a request over GitHub.
+- in case of any concerns or questions related to your data can be answered via Discord DM's or server.
+- Privacy Policy are subject to change. Updates will be posted on the developers discord server.
