@@ -55,7 +55,7 @@ I might need to join the server to identify the error and fix it.
 
 
 # [setup](#overview)
-you get how-to-setup infos here
+you get ``how-to-setup`` infos here
 
 ## [Boot](#overview)
 How to setup the booting message channel for the bot
