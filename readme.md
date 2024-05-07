@@ -6,7 +6,7 @@
 
 [![tos](https://img.shields.io/badge/terms_of_service-v1.0.2-green?style=for-the-badge
 )](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/ToS.md)
-[![updated](https://img.shields.io/badge/Last%20update-7th%20may%20at%2011%3A02-00ffff?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/ToS.txt)
+[![updated](https://img.shields.io/badge/Last%20update-7th%20may%20at%2011%3A02-00ffff?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/ToS.md)
 
 [![privacy policy](https://img.shields.io/badge/Privacy_Policy-v0.1.0.4-green?style=for-the-badge
 )](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/Privacy%20Policy.md)
