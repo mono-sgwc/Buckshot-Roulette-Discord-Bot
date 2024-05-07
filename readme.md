@@ -27,15 +27,15 @@
 - [Links](#links)
 - [Credits](#credits)
 
-# BRDB
+# [BRDB](#overview)
 This is the official Buckshot Roulette Discord Bot repo of Raven's bot
 
-## WORD
+## [WORD](#overview)
 if you encounter any bugs, errors or anything else, then make sure to report it.
 
 I might need to join the server to identify the error and fix it.
 
-# INSTALL
+# [INSTALL](#overview)
 1. Click or copy the [link](#links) and <kbd>Ctrl</kbd>+<kbd>V</kbd>/open (in) a new tab in your browser.
 
 
@@ -54,10 +54,10 @@ I might need to join the server to identify the error and fix it.
 ![step4](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to%20/step4.png)
 
 
-# setup
+# [setup](#overview)
 you get how-to-setup infos here
 
-## Boot
+## [Boot](#overview)
 How to setup the booting message channel for the bot
 
 You get messages, when the bot goes online
@@ -76,7 +76,7 @@ You get messages, when the bot goes online
 
 ![boo3](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to/boot3.png)
 
-## Votes
+## [Votes](#overview)
 How to setup the vote message channel for the bot
 
 you can vote for upcomming updates or changes
@@ -95,9 +95,9 @@ you can vote for upcomming updates or changes
 
 ![vote3](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to/vote3.png)
 
-# features
+# [features](#overview)
 
-## Game
+## [Game](#overview)
 Player actions:
 | Supported since Version | Action | Supported |
 | --- | --- | --- |
@@ -128,7 +128,7 @@ Dealer actions:
 | :x: | ADRENALINE | :x: |
 | <0.4.x | INVERTER | :white_check_mark: |
 
-## Commands
+## [Commands](#overview)
 > [!NOTE]
 > Admin commands are only avalable for the bot owner.
 >
@@ -144,14 +144,14 @@ Dealer actions:
 | 0.5.2 | buckshot_roulette | admin | vote | Nothing/.deferUptade() |
 | 0.5.2 | buckshot_roulette | admin | get_vote | Nothing/.deferUptade() |
 
-# version
+# [version](#overview)
 
 | Version | Feature |
 | --- | --- |
 | 0.5.2 | Added 1 new setup command |
 | <0.5.1 | Basically everything else (didn't noted all changes) |
 
-# Permissions
+# [Permissions](#overview)
 > [!NOTE]
 > Required permissions are subject to change
 >
@@ -206,7 +206,7 @@ Dealer actions:
 | View Creator Monetization Insights | :x: | :x: | :x: |
 | View Server Insights | :x: | :x: | :x: |
 
-# LINKS
+# [LINKS](#overview)
 [Main server:](https://Discord.gg/9Nu2KNWSwn)
 ```
 https://Discord.gg/9Nu2KNWSwn
@@ -216,7 +216,7 @@ https://Discord.gg/9Nu2KNWSwn
 ```
 https://discord.com/oauth2/authorize?client_id=1228396964970889286
 ```
-# credits
+# [credits](#overview)
 Support and Friend during developement
 - Waulesi
 
