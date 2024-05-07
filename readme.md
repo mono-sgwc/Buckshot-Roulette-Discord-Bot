@@ -4,7 +4,7 @@
 )](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 [![updated](https://img.shields.io/badge/Last%20update-6th%20may%20at%2011%3A13-00ffff?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
-[![tos](https://img.shields.io/badge/ToS-v1.0.1-green?style=for-the-badge
+[![tos](https://img.shields.io/badge/terms_of_service-v1.0.1-green?style=for-the-badge
 )](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/ToS.txt)
 [![updated](https://img.shields.io/badge/Last%20update-26th%20apr%20at%2012%3A38-00ffff?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/ToS.txt)
 
