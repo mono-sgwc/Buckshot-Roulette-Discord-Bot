@@ -246,7 +246,7 @@ https://Discord.gg/9Nu2KNWSwn
 https://discord.com/oauth2/authorize?client_id=1228396964970889286
 ```
 # [CREDITS](#overview)
-Support and Friend during developement
+Friend and Support during developement
 - Waulesi
 
 Beta 0.4.x testers
