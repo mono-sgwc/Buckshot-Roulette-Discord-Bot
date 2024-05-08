@@ -24,7 +24,7 @@
 - [Features](#features)
     - [Game](#game)
     - [Commands](#commands)
-- [BRDB version](#version)
+- [BRDB version](#versions)
 - [Permissions and usage](#permissions)
 - [Links](#links)
 - [Credits](#credits)
