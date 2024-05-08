@@ -4,21 +4,23 @@
 )](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 [![updated](https://img.shields.io/badge/Last%20update-6th%20may%20at%2011%3A13-00ffff?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
-[![tos](https://img.shields.io/badge/terms_of_service-v1.0.2-green?style=for-the-badge
-)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/ToS.md)
-[![updated](https://img.shields.io/badge/Last%20update-7th%20may%20at%2011%3A02-00ffff?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/ToS.md)
+[![tos](https://img.shields.io/badge/terms_of_service-v1.0.1-green?style=for-the-badge
+)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/ToS.txt)
+[![updated](https://img.shields.io/badge/Last%20update-26th%20apr%20at%2012%3A38-00ffff?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/ToS.txt)
 
-[![privacy policy](https://img.shields.io/badge/Privacy_Policy-v1.0.5-green?style=for-the-badge
+[![privacy policy](https://img.shields.io/badge/Privacy_Policy-v0.1.0.4-green?style=for-the-badge
 )](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/Privacy%20Policy.md)
-[![updated](https://img.shields.io/badge/Last%20update-7th%20may%20at%2011%3A13-00ffff?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/Privacy%20Policy.md)
+[![updated](https://img.shields.io/badge/Last%20update-6th%20may%20at%2008%3A28-00ffff?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/Privacy%20Policy.md)
 
 # Overview
 - [Informations](#brdb)
     - [Word](#word)
 - [how to Install](#install)
-- [How to setup](#setup)
-    - [Boot channel setup](#boot)
-    - [Vote channel setup](#votes)
+- [How to](#how-to)
+    - [play](#play)
+    - [setup](#setup)
+        - [Boot channel setup](#boot)
+        - [Vote channel setup](#votes)
 - [Features](#features)
     - [Game](#game)
     - [Commands](#commands)
@@ -39,65 +41,91 @@ I might need to join the server to identify the error and fix it.
 1. Click or copy the [link](#links) and <kbd>Ctrl</kbd>+<kbd>V</kbd>/open (in) a new tab in your browser.
 
 
-2. Select the server you want to add the bot to
+2. Select the server you want to add the bot to.
 
-![step2](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to%20/step2.png)
-
-
-3. Configurate permissions as you like and click on ``Authorize``
-
-![step3](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to%20/step3.png)
+[![step2](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to%20/step2.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 
-4. Done. The bot is now on your server. Have Fun
+3. Configurate permissions as you like and click on ``Authorize``.
 
-![step4](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to%20/step4.png)
+[![step3](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to%20/step3.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 
-# [setup](#overview)
-you get ``how-to-setup`` infos here
+4. Done. The bot is now on your server. Have Fun.
 
-## [Boot](#overview)
-How to setup the booting message channel for the bot
+[![step4](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to%20/step4.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
-You get messages, when the bot goes online
+
+# [HOW-TO](#overview)
+``How-to`` Informations are here. 
+
+## [PLAY](#overview)
+``How-to-play``
+
+1. go into the designated channel/thread/forum or create a new private thread.
+
+[![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)
+](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+
+2. type ``/buckshot_roulette player start``.
+
+[![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+
+
+3. play by using the modal menu or buttons under the embed messages.
+
+[![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+
+4. get current game info (charges, inv, loaded shells) via ``/buckshot_roulette player info``.
+
+[![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+
+
+## [SETUP](#overview)
+you get how-to-setup infos here.
+
+### [Boot](#overview)
+How to setup the booting message channel for the bot.
+
+You get messages, when the bot goes online.
 
 1. type ``/buckshot_roulette setup booting_message select_channel:[any channel]``
 
-![boot1](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to/boot1.png)
+[![boot1](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to/boot1.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 
 2. wait for the bot to send himself a verification message.
 
-![boot2](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to/boot2.png)
+[![boot2](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to/boot2.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 
 3. Setup is done. You now receive booting messages from the bot, when its online.
 
-![boo3](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to/boot3.png)
+[![boo3](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to/boot3.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
-## [Votes](#overview)
-How to setup the vote message channel for the bot
+### [Votes](#overview)
+How to setup the vote message channel for the bot.
 
-you can vote for upcomming updates or changes
+you can vote for upcomming updates or changes.
 
 1. type ``/buckshot_roulette setup vote_channel select_channel:[any channel]``
 
-![vote1](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to/vote1.png)
+[![vote1](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to/vote1.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 
 2. wait for the bot to send himself a verification message.
 
-![vote2](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to/vote2.png)
+[![vote2](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to/vote2.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 
 3. Setup is done. You now receive vote messages from the bot, when there are new votes.
 
-![vote3](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to/vote3.png)
+[![vote3](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to/vote3.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
-# [features](#overview)
 
-## [Game](#overview)
+# [FEATURES](#overview)
+
+## [GAME](#overview)
 Player actions:
 | Supported since Version | Action | Supported |
 | --- | --- | --- |
@@ -128,7 +156,7 @@ Dealer actions:
 | :x: | ADRENALINE | :x: |
 | <0.4.x | INVERTER | :white_check_mark: |
 
-## [Commands](#overview)
+## [COMMANDS](#overview)
 > [!NOTE]
 > Admin commands are only avalable for the bot owner.
 >
@@ -144,14 +172,14 @@ Dealer actions:
 | 0.5.2 | buckshot_roulette | admin | vote | Nothing/.deferUptade() |
 | 0.5.2 | buckshot_roulette | admin | get_vote | Nothing/.deferUptade() |
 
-# [version](#overview)
+# [VERSIONS](#overview)
 
 | Version | Feature |
 | --- | --- |
 | 0.5.2 | Added 1 new setup command |
 | <0.5.1 | Basically everything else (didn't noted all changes) |
 
-# [Permissions](#overview)
+# [PERMISSIONS](#overview)
 > [!NOTE]
 > Required permissions are subject to change
 >
@@ -216,8 +244,18 @@ https://Discord.gg/9Nu2KNWSwn
 ```
 https://discord.com/oauth2/authorize?client_id=1228396964970889286
 ```
-# [credits](#overview)
+# [CREDITS](#overview)
 Support and Friend during developement
+- Waulesi
+
+Beta 0.4.x testers
+- Luke
+- Lyna
+- Char Aznable
+- antlerswitch
+- UNKNOWN STATUS
+- UNKNOWN STATUS
+- ANONYMOUS
 - Waulesi
 
 Beta 0.4.x testers
