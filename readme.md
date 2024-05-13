@@ -1,8 +1,8 @@
 <h1 align="center">Buckshot Roulette Discord Bot</h1>
 
-[![Github release](https://img.shields.io/badge/current_bot_version-v0.5.3-green?style=for-the-badge
+[![Github release](https://img.shields.io/badge/current_bot_version-v0.5.4-green?style=for-the-badge
 )](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
-[![updated](https://img.shields.io/badge/Last%20update-8th%20may%20at%2008%3A43-00ffff?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![updated](https://img.shields.io/badge/Last%20update-13th%20may%20at%2008%3A42-00ffff?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 [![tos](https://img.shields.io/badge/terms_of_service-v1.0.1-green?style=for-the-badge
 )](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/ToS.txt)
@@ -176,6 +176,7 @@ Dealer actions:
 
 | Version | Feature |
 | --- | --- |
+| 0.5.4 | Fixed a bug, that could cause the dealer to always shoot live at you, when the gun is loaded blank after userd burner phone on that round |
 | 0.5.3 | changed booting message conf. and bug fix |
 | 0.5.2 | Added 1 new setup command |
 | <0.5.1 | Basically everything else (didn't noted all changes) |
