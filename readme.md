@@ -15,6 +15,7 @@
 # Overview
 - [Informations](#brdb)
     - [Word](#word)
+    - [Todo](#todo)
 - [how to Install](#install)
 - [How to](#how-to)
     - [play](#play)
@@ -36,6 +37,11 @@ This is the official Buckshot Roulette Discord Bot repo of Raven's bot
 if you encounter any bugs, errors or anything else, then make sure to report it.
 
 I might need to join the server to identify the error and fix it.
+
+## [TODO](#overview)
+- [ ] Dealer adrenaline action
+- [ ] change save files from user specific to user and channel specific save
+- [ ] 24/7 hosting
 
 # [INSTALL](#overview)
 1. Click or copy the [link](#links) and <kbd>Ctrl</kbd>+<kbd>V</kbd>/open (in) a new tab in your browser.
