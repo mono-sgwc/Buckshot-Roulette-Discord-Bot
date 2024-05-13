@@ -254,16 +254,6 @@ Beta 0.4.x testers
 - Lyna
 - Char Aznable
 - antlerswitch
-- UNKNOWN STATUS
-- UNKNOWN STATUS
 - ANONYMOUS
-- Waulesi
-
-Beta 0.4.x testers
-- Luke
-- Lyna
-- Char Aznable
-- antlerswitch
-- UNKNOWN STATUS
-- UNKNOWN STATUS
+- ANOMYMOUS
 - ANONYMOUS
