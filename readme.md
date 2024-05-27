@@ -192,6 +192,10 @@ Dealer actions:
 > Required permissions are subject to change
 >
 
+> [!WARNING]
+> Make sure the bot has the requred permissions or it will not work correctly.
+> 
+
 | Permission | Default | Required | Usage |
 | --- | --- | --- | --- |
 | Add Reactions | :white_check_mark: | :x: | Nothing yet, but planned in the future |
