@@ -49,17 +49,17 @@ I might need to join the server to identify the error and fix it.
 
 2. Select the server you want to add the bot to.
 
-[![step2](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to%20/step2.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![step2](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/step2.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 
 3. Configurate permissions as you like and click on ``Authorize``.
 
-[![step3](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to%20/step3.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![step3](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/step3.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 
 4. Done. The bot is now on your server. Have Fun.
 
-[![step4](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to%20/step4.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![step4](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/step4.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 
 # [HOW-TO](#overview)
@@ -97,17 +97,17 @@ You get messages, when the bot goes online.
 
 1. type ``/buckshot_roulette setup booting_message select_channel:[any channel]``
 
-[![boot1](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to/boot1.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![boot1](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/boot1.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 
 2. wait for the bot to send himself a verification message.
 
-[![boot2](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to/boot2.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![boot2](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/boot2.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 
 3. Setup is done. You now receive booting messages from the bot, when its online.
 
-[![boo3](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to/boot3.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![boo3](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/boot3.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 ### [Votes](#overview)
 How to setup the vote message channel for the bot.
@@ -116,17 +116,17 @@ you can vote for upcomming updates or changes.
 
 1. type ``/buckshot_roulette setup vote_channel select_channel:[any channel]``
 
-[![vote1](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to/vote1.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![vote1](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/vote1.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 
 2. wait for the bot to send himself a verification message.
 
-[![vote2](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to/vote2.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![vote2](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/vote2.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 
 3. Setup is done. You now receive vote messages from the bot, when there are new votes.
 
-[![vote3](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/how-to/vote3.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![vote3](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/vote3.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 
 # [FEATURES](#overview)
