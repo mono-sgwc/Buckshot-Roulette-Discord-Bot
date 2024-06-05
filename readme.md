@@ -188,7 +188,7 @@ Dealer actions:
 | <0.5.1 | Basically everything else (didn't noted all changes) |
 
 # [PERMISSIONS](#overview)
-> [!NOTE]
+> [!IMPORTANT]
 > Required permissions are subject to change
 >
 
