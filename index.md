@@ -7,10 +7,12 @@
 [![tos](https://img.shields.io/badge/terms_of_service-v1.0.2-green?style=for-the-badge
 )](./ToS.html)
 [![updated](https://img.shields.io/badge/Last%20update-5th%20June%20at%2010%3A49-00ffff?style=for-the-badge)](./ToS.html)
+- [ToS](./ToS.html)
 
 [![privacy policy](https://img.shields.io/badge/Privacy_Policy-v0.1.0.4-green?style=for-the-badge
 )](./Privacy%20Policy.html)
 [![updated](https://img.shields.io/badge/Last%20update-6th%20may%20at%2008%3A28-00ffff?style=for-the-badge)](./Privacy%20Policy.html)
+- [Privacy Policy](./Privacy%20Policy.html)
 
 # Overview
 - [Informations](#brdb)
