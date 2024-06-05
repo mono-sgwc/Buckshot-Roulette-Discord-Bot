@@ -78,17 +78,17 @@ You get messages, when the bot goes online.
 
 1. type ``/buckshot_roulette setup booting_message select_channel:[any channel]``
 
-[![boot1](./images/boot1.png)](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/)
+[![boot1](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/images/boot1.png)](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/)
 
 
 2. wait for the bot to send himself a verification message.
 
-[![boot2](./images/boot2.png)](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/)
+[![boot2](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/images/boot2.png)](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/)
 
 
 3. Setup is done. You now receive booting messages from the bot, when its online.
 
-[![boo3](./images/boot3.png)](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/)
+[![boo3](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/images/boot3.png)](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/)
 
 ### [Votes](#overview)
 How to setup the vote message channel for the bot.
@@ -97,17 +97,17 @@ you can vote for upcomming updates or changes.
 
 1. type ``/buckshot_roulette setup vote_channel select_channel:[any channel]``
 
-[![vote1](./images/vote1.png)](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/)
+[![vote1](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/images/vote1.png)](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/)
 
 
 2. wait for the bot to send himself a verification message.
 
-[![vote2](./images/vote2.png)](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/)
+[![vote2](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/images/vote2.png)](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/)
 
 
 3. Setup is done. You now receive vote messages from the bot, when there are new votes.
 
-[![vote3](./images/vote3.png)](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/)
+[![vote3](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/images/vote3.png)](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/)
 
 
 # [FEATURES](#overview)
