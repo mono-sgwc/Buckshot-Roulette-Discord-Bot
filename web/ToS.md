@@ -1,0 +1,14 @@
+<h1 align="center">Buckshot Roulette Discord Bot ToS</h1>
+
+- Do not pretend this bot is yours.
+- Do not exploit errors.
+- Users must adhere to Discord's Terms of Service and Community Guidelines while using the bot.
+- Respect other users and refrain from using the bot to harass, bully, or spam others.
+- The bot may undergo maintenance or updates, so users should expect occasional downtime.
+- Any abuse or misuse of the bot or it's WebHooks may result in restrictions or bans from using it.
+- Bot developer may join your Discord server in case of problems with the bot.
+- Terms of Service are subject to change. Updates will be posted on the developers discord server.
+
+> [!NOTE]
+> Bot  will be online unregulary over time for now.
+>
