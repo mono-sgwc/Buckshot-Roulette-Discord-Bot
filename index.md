@@ -15,11 +15,10 @@
 - [Privacy Policy](./Privacy%20Policy.html)
 
 # Overview
-- [Informations](#brdb)
-    - [Word](#word)
-    - [Todo](#todo)
-    - [Links](#links)
-    - [Credits](#credits)
+- [What's New](#whats-new)
+- [Todo](#todo)
+- [Links](#links)
+- [Credits](#credits)
 - [How to](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/how-to.html)
     - [Install](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/install.html)
     - [Play](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/play.html)
@@ -32,13 +31,8 @@
 - [BRDB versions](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/versions.html)
 - [Permissions and usage](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/perm.html)
 
-# BRDB
-This is the official Buckshot Roulette Discord Bot repo of Raven's bot
-
-## WORD
-if you encounter any bugs, errors or anything else, then make sure to report it.
-
-I might need to join the server to identify the error and fix it.
+# What's new
+This Page
 
 # TODO
 - [ ] Dealer adrenaline action
@@ -57,6 +51,9 @@ https://Discord.gg/9Nu2KNWSwn
 ```
 https://discord.com/oauth2/authorize?client_id=1228396964970889286
 ```
+
+I might need to join the server to identify the error and fix it.
+
 # CREDITS
 Friend and Support during developement
 - Waulesi
