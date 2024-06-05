@@ -25,7 +25,7 @@
     - [Play](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/play.html)
     - [Setup](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/setup.html)
         - [Boot channel](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/boot.html)
-        - ~~[Vote channel](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/vote.html)~~
+        - [Vote channel](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/vote.html)
 - [Features](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/features.html)
     - [Actions and Responses](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/features/a&r.html)
     - [Commands](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/features/cmd.html)

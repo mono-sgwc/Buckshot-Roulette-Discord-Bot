@@ -7,14 +7,14 @@ INSTALLATION
 
 2. Select the server you want to add the bot to.
 
-[![step2](https://raven-sgwc.github.com/Buckshot-Roulette-Discord-Bot/web/images/step2.png)](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/)
+[![step2](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/images/step2.png)](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/install.html)
 
 
 3. Configurate permissions as you like and click on ``Authorize``.
 
-[![step3](https://raven-sgwc.github.com/Buckshot-Roulette-Discord-Bot/web/images/step3.png)](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/)
+[![step3](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/images/step3.png)](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/install.html)
 
 
 4. Done. The bot is now on your server. Have Fun.
 
-[![step4](https://raven-sgwc.github.com/Buckshot-Roulette-Discord-Bot/web/images/step4.png)](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/)
+[![step4](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/images/step4.png)](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/install.html)
