@@ -1,5 +1,10 @@
 <h1 align="center">Buckshot Roulette Discord Bot</h1>
 
+> [!IMPORTANT]
+> The main README.md might not be updated or delayed updated.
+> Use the [web repo](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/) instead.
+>
+
 [![Github release](https://img.shields.io/badge/current_bot_version-v0.5.4-green?style=for-the-badge
 )](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 [![updated](https://img.shields.io/badge/Last%20update-13th%20may%20at%2008%3A42-00ffff?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
