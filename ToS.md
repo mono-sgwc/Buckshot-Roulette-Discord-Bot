@@ -8,7 +8,3 @@
 - Any abuse or misuse of the bot or it's WebHooks may result in restrictions or bans from using it.
 - Bot developer may join your Discord server in case of problems with the bot.
 - Terms of Service are subject to change. Updates will be posted on the developers discord server.
-
-> [!NOTE]
-> Bot  will be online unregulary over time for now.
->
