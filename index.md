@@ -17,7 +17,7 @@
     - [Word](#word)
     - [Todo](#todo)
 - [how to Install](#install)
-- [How to](#how-to)
+- [How to](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/how-to.html)
     - [play](#play)
     - [setup](#setup)
         - [Boot channel setup](#boot)
@@ -30,15 +30,15 @@
 - [Links](#links)
 - [Credits](#credits)
 
-# [BRDB](#overview)
+# BRDB
 This is the official Buckshot Roulette Discord Bot repo of Raven's bot
 
-## [WORD](#overview)
+## WORD
 if you encounter any bugs, errors or anything else, then make sure to report it.
 
 I might need to join the server to identify the error and fix it.
 
-## [TODO](#overview)
+# TODO
 - [ ] Dealer adrenaline action
 - [ ] change save files from user specific to user and channel specific save
 - [ ] 24/7 hosting
