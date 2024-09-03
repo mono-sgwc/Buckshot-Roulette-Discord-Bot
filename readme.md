@@ -2,20 +2,20 @@
 
 > [!IMPORTANT]
 > The main README.md might not be updated or delayed updated.
-> Use the [web repo](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/) instead.
+> Use the [web repo](https://mono-sgwc.github.io/Buckshot-Roulette-Discord-Bot/) instead.
 >
 
 [![Github release](https://img.shields.io/badge/current_bot_version-v0.5.4-green?style=for-the-badge
-)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
-[![updated](https://img.shields.io/badge/Last%20update-13th%20may%20at%2008%3A42-00ffff?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![updated](https://img.shields.io/badge/Last%20update-13th%20may%20at%2008%3A42-00ffff?style=for-the-badge)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 [![tos](https://img.shields.io/badge/terms_of_service-v1.0.2-green?style=for-the-badge
-)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/ToS.md)
-[![updated](https://img.shields.io/badge/Last%20update-5th%20June%20at%2010%3A49-00ffff?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/ToS.md)
+)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/ToS.md)
+[![updated](https://img.shields.io/badge/Last%20update-5th%20June%20at%2010%3A49-00ffff?style=for-the-badge)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/ToS.md)
 
 [![privacy policy](https://img.shields.io/badge/Privacy_Policy-v0.1.0.4-green?style=for-the-badge
-)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/Privacy%20Policy.md)
-[![updated](https://img.shields.io/badge/Last%20update-6th%20may%20at%2008%3A28-00ffff?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/Privacy%20Policy.md)
+)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/Privacy%20Policy.md)
+[![updated](https://img.shields.io/badge/Last%20update-6th%20may%20at%2008%3A28-00ffff?style=for-the-badge)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/Privacy%20Policy.md)
 
 # Overview
 - [Informations](#brdb)
@@ -54,17 +54,17 @@ I might need to join the server to identify the error and fix it.
 
 2. Select the server you want to add the bot to.
 
-[![step2](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/step2.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![step2](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/step2.png)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 
 3. Configurate permissions as you like and click on ``Authorize``.
 
-[![step3](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/step3.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![step3](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/step3.png)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 
 4. Done. The bot is now on your server. Have Fun.
 
-[![step4](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/step4.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![step4](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/step4.png)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 
 # [HOW-TO](#overview)
@@ -76,20 +76,20 @@ I might need to join the server to identify the error and fix it.
 1. go into the designated channel/thread/forum or create a new private thread.
 
 [![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)
-](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 2. type ``/buckshot_roulette player start``.
 
-[![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 
 3. play by using the modal menu or buttons under the embed messages.
 
-[![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 4. get current game info (charges, inv, loaded shells) via ``/buckshot_roulette player info``.
 
-[![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![image](https://img.shields.io/badge/Image%20status-pending-ff0000?style=for-the-badge)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 
 ## [SETUP](#overview)
@@ -102,17 +102,17 @@ You get messages, when the bot goes online.
 
 1. type ``/buckshot_roulette setup booting_message select_channel:[any channel]``
 
-[![boot1](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/boot1.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![boot1](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/boot1.png)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 
 2. wait for the bot to send himself a verification message.
 
-[![boot2](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/boot2.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![boot2](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/boot2.png)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 
 3. Setup is done. You now receive booting messages from the bot, when its online.
 
-[![boo3](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/boot3.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![boo3](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/boot3.png)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 ### [Votes](#overview)
 How to setup the vote message channel for the bot.
@@ -121,17 +121,17 @@ you can vote for upcomming updates or changes.
 
 1. type ``/buckshot_roulette setup vote_channel select_channel:[any channel]``
 
-[![vote1](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/vote1.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![vote1](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/vote1.png)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 
 2. wait for the bot to send himself a verification message.
 
-[![vote2](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/vote2.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![vote2](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/vote2.png)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 
 3. Setup is done. You now receive vote messages from the bot, when there are new votes.
 
-[![vote3](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/vote3.png)](https://github.com/raven-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
+[![vote3](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/assets/images/vote3.png)](https://github.com/mono-sgwc/Buckshot-Roulette-Discord-Bot/blob/main/readme.md)
 
 
 # [FEATURES](#overview)

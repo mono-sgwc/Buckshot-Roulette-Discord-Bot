@@ -11,5 +11,5 @@ PERMISSIONS AND USAGE
 > 
 
 # Overview
-- [current](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/perm/054.html)
+- [current](https://mono-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/perm/054.html)
 - v0.5.3 and below (not recorded)

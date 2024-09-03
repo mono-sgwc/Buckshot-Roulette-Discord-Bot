@@ -1,8 +1,8 @@
 <h1 align="center">Buckshot Roulette Discord Bot</h1>
 
 [![Github release](https://img.shields.io/badge/current_bot_version-v0.5.4-green?style=for-the-badge
-)](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/)
-[![updated](https://img.shields.io/badge/Last%20update-13th%20may%20at%2008%3A42-00ffff?style=for-the-badge)](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/)
+)](https://mono-sgwc.github.io/Buckshot-Roulette-Discord-Bot/)
+[![updated](https://img.shields.io/badge/Last%20update-13th%20may%20at%2008%3A42-00ffff?style=for-the-badge)](https://mono-sgwc.github.io/Buckshot-Roulette-Discord-Bot/)
 
 [![tos](https://img.shields.io/badge/terms_of_service-v1.0.2-green?style=for-the-badge
 )](./ToS.html)
@@ -19,17 +19,17 @@
 - [Todo](#todo)
 - [Links](#links)
 - [Credits](#credits)
-- [How to](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/how-to.html)
-    - [Install](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/install.html)
-    - [Play](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/play.html)
-    - [Setup](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/setup.html)
-        - [Boot channel](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/boot.html)
-        - [Vote channel](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/vote.html)
-- [Features](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/features.html)
-    - [Actions and Responses](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/features/a&r.html)
-    - [Commands](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/features/cmd.html)
-- [BRDB versions](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/versions.html)
-- [Permissions and usage](https://raven-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/perm.html)
+- [How to](https://mono-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/how-to.html)
+    - [Install](https://mono-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/install.html)
+    - [Play](https://mono-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/play.html)
+    - [Setup](https://mono-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/setup.html)
+        - [Boot channel](https://mono-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/boot.html)
+        - [Vote channel](https://mono-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/how-to/vote.html)
+- [Features](https://mono-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/features.html)
+    - [Actions and Responses](https://mono-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/features/a&r.html)
+    - [Commands](https://mono-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/features/cmd.html)
+- [BRDB versions](https://mono-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/versions.html)
+- [Permissions and usage](https://mono-sgwc.github.io/Buckshot-Roulette-Discord-Bot/web/perm.html)
 
 # What's new
 This Page
